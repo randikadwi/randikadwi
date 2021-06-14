@@ -2,16 +2,11 @@
 
 **Find me all around the web:**
 
-<svg
-   xmlns="http://www.w3.org/2000/svg"
-   aria-label="..." role="img"
-   viewBox="0 0 512 512">
-   <rect
-      width="512" height="512"
-      rx="15%"
-      fill="#fff"/>
-   ...
-</svg>
+[![Instagram badge](https://img.shields.io/badge/Instagram-405DE6?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/randikadwim/&link=)](https://www.instagram.com/randikadwim/)
+
+[![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&link=https:https://www.linkedin.com/in/randikadwi/&link=)](https://www.linkedin.com/in/randikadwi/)
+
+[![GitHub followers](https://img.shields.io/github/followers/randikadwi?style=social&link=https://github.com/randikadwi)](https://github.com/randikadwi)
 <!--
 **randikadwi/randikadwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
