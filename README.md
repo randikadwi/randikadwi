@@ -1,5 +1,7 @@
 ### Hi There, I'm Randika Dwi and I'm student from Telkom University 👋🏻
 
+**Find me all around the web:**
+
 <!--
 **randikadwi/randikadwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
