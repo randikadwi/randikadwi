@@ -2,6 +2,16 @@
 
 **Find me all around the web:**
 
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   aria-label="..." role="img"
+   viewBox="0 0 512 512">
+   <rect
+      width="512" height="512"
+      rx="15%"
+      fill="#fff"/>
+   ...
+</svg>
 <!--
 **randikadwi/randikadwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
